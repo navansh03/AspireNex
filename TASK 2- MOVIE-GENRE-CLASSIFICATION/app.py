@@ -1,5 +1,5 @@
 '''
-#AspireNX Internship Task 2
+#AspireNEX Internship Task 2
 #Task: Movie Genre Classifier
 #Category: Machine Learning
 #Author: Navansh Krishna Goswami

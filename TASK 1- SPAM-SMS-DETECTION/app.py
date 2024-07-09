@@ -1,3 +1,14 @@
+'''
+#AspireNEX Internship Task 1
+#Task: Spam-sms-detection
+#Category: Machine Learning
+#Author: Navansh Krishna Goswami
+#Date: 9th July 2024
+#Github: https://github.com/navansh03 
+#Linkedin:https://www.linkedin.com/in/navansh-krishna-goswami-341713248/
+# '''
+
+
 import streamlit as st
 import pickle
 import string
